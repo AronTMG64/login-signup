@@ -1,10 +1,10 @@
 import React from 'react'
-import LoginForm from '@/components/loginform/LoginForm'
+import RegisterForm from '@/components/registerform/RegisterForm'
 
 const index = () => {
   return (
     <main>
-      <LoginForm />
+      <RegisterForm />
     </main>
   )
 }
